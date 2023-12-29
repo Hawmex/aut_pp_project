@@ -1,12 +1,12 @@
-# Production Planning: Demand Forecasting
+# Production Planning
 
 This repository contains the files of my project for the "Production Planning"
 course at Amirkabir University of Technology (Tehran Polytechnic) during the
 Fall 2023 semester.
 
-_Current Status_: **1st Phase Finished**
+## Phase 1: Demand Forecasting
 
-## Description
+### Description
 
 The dataset contains 6 tables, containing the actual demands for 6 type of
 products. These variants belong to 3 groups:
@@ -15,7 +15,7 @@ products. These variants belong to 3 groups:
 - Group 2 (G2): M2 and M5
 - Group 3 (G3): M6
 
-This project focuses on 3 major contributions:
+This phase focuses on 3 major contributions:
 
 1. Predicting the demands for each group for the next 6 months, implementing and
    using various forecasting methods such as Simple Exponential Smoothing (SES)
@@ -24,7 +24,7 @@ This project focuses on 3 major contributions:
    models, calculating MFE and MAE for each of them.
 3. Calculating the tracking signal of each forecasting model's predictions.
 
-## Forecasting
+### Details
 
 Our demand forecasting section contains 5 models:
 
@@ -36,10 +36,14 @@ Our demand forecasting section contains 5 models:
 
 ### Results
 
-![SES](./forecast_plots/SES.jpg) ![SMA](./forecast_plots/SMA.jpg)
-![WMA](./forecast_plots/WMA.jpg) ![LR](./forecast_plots/LR.jpg)
-![ALR](./forecast_plots/ALR.jpg)
+![SES](./phase_1/forecast_plots/SES.jpg) ![SMA](./forecast_plots/SMA.jpg)
+![WMA](./phase_1/forecast_plots/WMA.jpg) ![LR](./forecast_plots/LR.jpg)
+![ALR](./phase_1/forecast_plots/ALR.jpg)
 
-## Error Analysis and Tracking Signal
+### Error Analysis and Tracking Signal
 
 The results for these sections can be found at `output.xlsx`.
+
+## Phase 2: Production Planning
+
+_WIP_
