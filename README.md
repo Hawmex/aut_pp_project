@@ -43,7 +43,7 @@ Our demand forecasting section contains 5 models:
 
 ### Error Analysis and Tracking Signal
 
-The results for these sections can be found at `output.xlsx`.
+The results from this phase can be found at `./phase_1/output.xlsx`.
 
 ## Phase 2: Production Planning
 
