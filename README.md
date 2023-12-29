@@ -36,8 +36,9 @@ Our demand forecasting section contains 5 models:
 
 ### Results
 
-![SES](./phase_1/forecast_plots/SES.jpg) ![SMA](./forecast_plots/SMA.jpg)
-![WMA](./phase_1/forecast_plots/WMA.jpg) ![LR](./forecast_plots/LR.jpg)
+![SES](./phase_1/forecast_plots/SES.jpg)
+![SMA](./phase_1/forecast_plots/SMA.jpg)
+![WMA](./phase_1/forecast_plots/WMA.jpg) ![LR](./phase_1/forecast_plots/LR.jpg)
 ![ALR](./phase_1/forecast_plots/ALR.jpg)
 
 ### Error Analysis and Tracking Signal
