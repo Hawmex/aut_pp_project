@@ -94,28 +94,28 @@
       { "name": "IS_25_3", "value": 466666.6666666667 },
       { "name": "TW_20", "value": 15000000 },
       { "name": "OW_20", "value": 4500000 },
-      { "name": "H_20", "value": 2400000 },
-      { "name": "F_20", "value": 18000000.0 },
+      { "name": "HW_20", "value": 2400000 },
+      { "name": "FW_20", "value": 18000000.0 },
       { "name": "TW_21", "value": 15000000 },
       { "name": "OW_21", "value": 4500000 },
-      { "name": "H_21", "value": 2400000 },
-      { "name": "F_21", "value": 18000000.0 },
+      { "name": "HW_21", "value": 2400000 },
+      { "name": "FW_21", "value": 18000000.0 },
       { "name": "TW_22", "value": 15000000 },
       { "name": "OW_22", "value": 4500000 },
-      { "name": "H_22", "value": 2400000 },
-      { "name": "F_22", "value": 18000000.0 },
+      { "name": "HW_22", "value": 2400000 },
+      { "name": "FW_22", "value": 18000000.0 },
       { "name": "TW_23", "value": 15000000 },
       { "name": "OW_23", "value": 4500000 },
-      { "name": "H_23", "value": 2400000 },
-      { "name": "F_23", "value": 18000000.0 },
+      { "name": "HW_23", "value": 2400000 },
+      { "name": "FW_23", "value": 18000000.0 },
       { "name": "TW_24", "value": 15000000 },
       { "name": "OW_24", "value": 4500000 },
-      { "name": "H_24", "value": 2400000 },
-      { "name": "F_24", "value": 18000000.0 },
+      { "name": "HW_24", "value": 2400000 },
+      { "name": "FW_24", "value": 18000000.0 },
       { "name": "TW_25", "value": 15000000 },
       { "name": "OW_25", "value": 4500000 },
-      { "name": "H_25", "value": 2400000 },
-      { "name": "F_25", "value": 18000000.0 }
+      { "name": "HW_25", "value": 2400000 },
+      { "name": "FW_25", "value": 18000000.0 }
     ]
   },
   "constraints": [
@@ -162,8 +162,8 @@
       "name": null,
       "coefficients": [
         { "name": "TW_20", "value": 1 },
-        { "name": "H_20", "value": -1 },
-        { "name": "F_20", "value": 1 }
+        { "name": "HW_20", "value": -1 },
+        { "name": "FW_20", "value": 1 }
       ]
     },
     {
@@ -309,8 +309,8 @@
       "coefficients": [
         { "name": "TW_21", "value": 1 },
         { "name": "TW_20", "value": -1 },
-        { "name": "H_21", "value": -1 },
-        { "name": "F_21", "value": 1 }
+        { "name": "HW_21", "value": -1 },
+        { "name": "FW_21", "value": 1 }
       ]
     },
     {
@@ -462,8 +462,8 @@
       "coefficients": [
         { "name": "TW_22", "value": 1 },
         { "name": "TW_21", "value": -1 },
-        { "name": "H_22", "value": -1 },
-        { "name": "F_22", "value": 1 }
+        { "name": "HW_22", "value": -1 },
+        { "name": "FW_22", "value": 1 }
       ]
     },
     {
@@ -615,8 +615,8 @@
       "coefficients": [
         { "name": "TW_23", "value": 1 },
         { "name": "TW_22", "value": -1 },
-        { "name": "H_23", "value": -1 },
-        { "name": "F_23", "value": 1 }
+        { "name": "HW_23", "value": -1 },
+        { "name": "FW_23", "value": 1 }
       ]
     },
     {
@@ -768,8 +768,8 @@
       "coefficients": [
         { "name": "TW_24", "value": 1 },
         { "name": "TW_23", "value": -1 },
-        { "name": "H_24", "value": -1 },
-        { "name": "F_24", "value": 1 }
+        { "name": "HW_24", "value": -1 },
+        { "name": "FW_24", "value": 1 }
       ]
     },
     {
@@ -921,8 +921,8 @@
       "coefficients": [
         { "name": "TW_25", "value": 1 },
         { "name": "TW_24", "value": -1 },
-        { "name": "H_25", "value": -1 },
-        { "name": "F_25", "value": 1 }
+        { "name": "HW_25", "value": -1 },
+        { "name": "FW_25", "value": 1 }
       ]
     },
     {
@@ -1059,7 +1059,7 @@
       "cat": "Integer",
       "varValue": 19749.0,
       "dj": 12000000.0,
-      "name": "F_20"
+      "name": "FW_20"
     },
     {
       "lowBound": 0,
@@ -1067,7 +1067,7 @@
       "cat": "Integer",
       "varValue": 4.0,
       "dj": 12000000.0,
-      "name": "F_21"
+      "name": "FW_21"
     },
     {
       "lowBound": 0,
@@ -1075,7 +1075,7 @@
       "cat": "Integer",
       "varValue": 3.0,
       "dj": 12000000.0,
-      "name": "F_22"
+      "name": "FW_22"
     },
     {
       "lowBound": 0,
@@ -1083,7 +1083,7 @@
       "cat": "Integer",
       "varValue": 2.0,
       "dj": 12000000.0,
-      "name": "F_23"
+      "name": "FW_23"
     },
     {
       "lowBound": 0,
@@ -1091,7 +1091,7 @@
       "cat": "Integer",
       "varValue": 1.0,
       "dj": 12000000.0,
-      "name": "F_24"
+      "name": "FW_24"
     },
     {
       "lowBound": 0,
@@ -1099,7 +1099,7 @@
       "cat": "Integer",
       "varValue": 0.0,
       "dj": 12000000.0,
-      "name": "F_25"
+      "name": "FW_25"
     },
     {
       "lowBound": 0,
@@ -1107,7 +1107,7 @@
       "cat": "Integer",
       "varValue": 0.0,
       "dj": 2400000.0,
-      "name": "H_20"
+      "name": "HW_20"
     },
     {
       "lowBound": 0,
@@ -1115,7 +1115,7 @@
       "cat": "Integer",
       "varValue": 0.0,
       "dj": 2400000.0,
-      "name": "H_21"
+      "name": "HW_21"
     },
     {
       "lowBound": 0,
@@ -1123,7 +1123,7 @@
       "cat": "Integer",
       "varValue": 0.0,
       "dj": 2400000.0,
-      "name": "H_22"
+      "name": "HW_22"
     },
     {
       "lowBound": 0,
@@ -1131,7 +1131,7 @@
       "cat": "Integer",
       "varValue": 0.0,
       "dj": 2400000.0,
-      "name": "H_23"
+      "name": "HW_23"
     },
     {
       "lowBound": 0,
@@ -1139,7 +1139,7 @@
       "cat": "Integer",
       "varValue": 0.0,
       "dj": 2400000.0,
-      "name": "H_24"
+      "name": "HW_24"
     },
     {
       "lowBound": 0,
@@ -1147,7 +1147,7 @@
       "cat": "Integer",
       "varValue": 0.0,
       "dj": 2400000.0,
-      "name": "H_25"
+      "name": "HW_25"
     },
     {
       "lowBound": 0,
