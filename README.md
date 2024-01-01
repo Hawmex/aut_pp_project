@@ -47,4 +47,144 @@ The results from this phase can be found at `./phase_1/output.xlsx`.
 
 ## Phase 2: Production Planning
 
-_WIP_
+In this phase, we use the forecasts from the first phase to plan the production
+of these 3 product groups. Thus, we model an integer linear programming problem
+for this case.
+
+The objective function, constraints, parameters, and decision variables can be
+found at `./phase_2/report.pdf`. Also, the implementation of this problem in
+Python's PuLP can be found at `./phase_2/notebook.ipynb`. Moreover, the solved
+model is exported and saved at `./phase_2/model.json`.
+
+### Results
+
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>T20</th>
+      <th>T21</th>
+      <th>T22</th>
+      <th>T23</th>
+      <th>T24</th>
+      <th>T25</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>RP</th>
+      <td>(437, 166, 7)</td>
+      <td>(435, 159, 6)</td>
+      <td>(433, 154, 6)</td>
+      <td>(435, 148, 5)</td>
+      <td>(435, 145, 5)</td>
+      <td>(435, 144, 5)</td>
+    </tr>
+    <tr>
+      <th>OP</th>
+      <td>(3, 0, 0)</td>
+      <td>(0, 0, 0)</td>
+      <td>(0, 0, 0)</td>
+      <td>(0, 0, 0)</td>
+      <td>(0, 0, 0)</td>
+      <td>(0, 0, 0)</td>
+    </tr>
+    <tr>
+      <th>PI</th>
+      <td>(437, 166, 7)</td>
+      <td>(0, 0, 0)</td>
+      <td>(0, 0, 0)</td>
+      <td>(2, 0, 0)</td>
+      <td>(0, 0, 0)</td>
+      <td>(0, 0, 0)</td>
+    </tr>
+    <tr>
+      <th>PD</th>
+      <td>(0, 0, 0)</td>
+      <td>(2, 7, 1)</td>
+      <td>(2, 5, 0)</td>
+      <td>(0, 6, 1)</td>
+      <td>(0, 3, 0)</td>
+      <td>(0, 1, 0)</td>
+    </tr>
+    <tr>
+      <th>IL</th>
+      <td>(0, 0, 0)</td>
+      <td>(0, 0, 0)</td>
+      <td>(0, 0, 0)</td>
+      <td>(0, 0, 0)</td>
+      <td>(0, 13, 0)</td>
+      <td>(0, 0, 0)</td>
+    </tr>
+    <tr>
+      <th>IS</th>
+      <td>(0, 0, 0)</td>
+      <td>(0, 0, 0)</td>
+      <td>(0, 0, 0)</td>
+      <td>(0, 0, 0)</td>
+      <td>(0, 13, 0)</td>
+      <td>(0, 0, 0)</td>
+    </tr>
+    <tr>
+      <th>IG</th>
+      <td>(0, 0, 0)</td>
+      <td>(0, 0, 0)</td>
+      <td>(0, 0, 0)</td>
+      <td>(0, 0, 0)</td>
+      <td>(0, 0, 0)</td>
+      <td>(0, 0, 0)</td>
+    </tr>
+    <tr>
+      <th>TW</th>
+      <td>251</td>
+      <td>247</td>
+      <td>244</td>
+      <td>242</td>
+      <td>241</td>
+      <td>241</td>
+    </tr>
+    <tr>
+      <th>OW</th>
+      <td>5</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <th>HW</th>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <th>FW</th>
+      <td>19749</td>
+      <td>4</td>
+      <td>3</td>
+      <td>2</td>
+      <td>1</td>
+      <td>0</td>
+    </tr>
+  </tbody>
+</table>
+</div>
