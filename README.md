@@ -225,7 +225,7 @@ model is exported and saved at `./phase_2/model.json`.
 
 ### Sensitivity Analysis
 
-As said, sensitivity analysis is conducted on two parameters.
+As said, sensitivity analysis is conducted on two following parameters:
 
 #### Regular Salary
 
