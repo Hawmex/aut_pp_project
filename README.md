@@ -9,7 +9,7 @@ Fall 2023 semester.
 ### Description
 
 The dataset contains 6 tables, containing the actual demands for 6 type of
-products. These variants belong to 3 groups:
+products belonging to 3 groups:
 
 - Group 1 (G1): M1, M3, and M4
 - Group 2 (G2): M2 and M5
@@ -17,16 +17,16 @@ products. These variants belong to 3 groups:
 
 This phase focuses on 3 major contributions:
 
-1. Predicting the demands for each group for the next 6 months, implementing and
-   using various forecasting methods such as Simple Exponential Smoothing (SES)
-   and Linear Regression (LR).
-2. Performing error analysis on the resulting predictions from the forecasting
-   models, calculating MFE and MAE for each of them.
-3. Calculating the tracking signal of each forecasting model's predictions.
+1. Predicting the demands for each group at the next 6 steps in the time series,
+   implementing and using various forecasting methods such as Simple Exponential
+   Smoothing (SES) and Linear Regression (LR).
+2. Conducting error analysis on the resulting predictions from the forecasting
+   methods, calculating MFE and MAE for each of them.
+3. Calculating the tracking signal for each forecasting method.
 
 ### Details
 
-Our demand forecasting section contains 5 models:
+Our demand forecasting section contains 5 methods:
 
 1. Simple Exponential Smoothing (SES) with `alpha=0.3`.
 2. Simple Moving Average (SMA) with `n=3`.
@@ -43,13 +43,75 @@ Our demand forecasting section contains 5 models:
 
 ### Error Analysis and Tracking Signal
 
-The results from this phase can be found at `./phase_1/output.xlsx`.
+This section's results can be found at `./phase_1/output.xlsx`. However, we can
+have a glimpse at the tracking signals here.
 
-## Phase 2: Production Planning
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
 
-In this phase, we use the forecasts from the first phase to plan the production
-of these 3 product groups. Thus, we model an integer linear programming problem
-for this case.
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>G1</th>
+      <th>G2</th>
+      <th>G3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>SES</th>
+      <td>1.627202</td>
+      <td>1.494879</td>
+      <td>-5.000000</td>
+    </tr>
+    <tr>
+      <th>SMA</th>
+      <td>-1.497890</td>
+      <td>-0.543943</td>
+      <td>-5.000000</td>
+    </tr>
+    <tr>
+      <th>WMA</th>
+      <td>-2.279876</td>
+      <td>-1.372624</td>
+      <td>-5.000000</td>
+    </tr>
+    <tr>
+      <th>LR</th>
+      <td>4.758926</td>
+      <td>4.039556</td>
+      <td>3.254925</td>
+    </tr>
+    <tr>
+      <th>ALR</th>
+      <td>5.000000</td>
+      <td>3.809070</td>
+      <td>1.948311</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+## Phase 2: S&OP
+
+### Description
+
+In this phase, we use the forecasts of the first phase in the S&OP of these 3
+product groups, modeling an LP problem and conducting sensitivity analysis on
+two of its parameters.
 
 The objective function, constraints, parameters, and decision variables can be
 found at `./phase_2/report.pdf`. Also, the implementation of this problem in
@@ -188,3 +250,31 @@ model is exported and saved at `./phase_2/model.json`.
   </tbody>
 </table>
 </div>
+
+### Sensitivity Analysis
+
+As said, sensitivity analysis is conducted on two parameters.
+
+#### Regular Salary
+
+```
+rs = 12000000,	total cost: 296656538333.3333
+rs = 13000000,	total cost: 298122538333.3333
+rs = 14000000,	total cost: 299588538333.3333
+rs = 15000000,	total cost: 301054538333.3333
+rs = 16000000,	total cost: 302520538333.3333
+rs = 17000000,	total cost: 303986538333.3333
+rs = 18000000,	total cost: 305452538333.3333
+```
+
+#### Firing Cost
+
+```
+fc = 6000000,	total cost: 182500538333.33334
+fc = 8000000,	total cost: 222018538333.33334
+fc = 10000000,	total cost: 261536538333.33334
+fc = 12000000,	total cost: 301054538333.3333
+fc = 14000000,	total cost: 340572538333.3333
+fc = 16000000,	total cost: 380090538333.3333
+fc = 18000000,	total cost: 419608538333.3333
+```
