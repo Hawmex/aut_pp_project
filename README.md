@@ -44,7 +44,7 @@ Our demand forecasting section contains 5 methods:
 ### Error Analysis and Tracking Signal
 
 This section's results can be found at `./phase_1/output.xlsx`. However, we can
-have a glimpse at the tracking signals here.
+have a glimpse at the tracking signals:
 
 <div>
 <table border="1" class="dataframe">
