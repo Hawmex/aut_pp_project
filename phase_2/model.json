@@ -1057,7 +1057,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 19749.0,
+      "varValue": 19756.0,
       "dj": 12000000.0,
       "name": "FW_20"
     },
@@ -1065,7 +1065,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 4.0,
+      "varValue": 0.0,
       "dj": 12000000.0,
       "name": "FW_21"
     },
@@ -1073,7 +1073,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 3.0,
+      "varValue": 0.0,
       "dj": 12000000.0,
       "name": "FW_22"
     },
@@ -1081,7 +1081,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 2.0,
+      "varValue": 0.0,
       "dj": 12000000.0,
       "name": "FW_23"
     },
@@ -1089,7 +1089,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 1.0,
+      "varValue": 0.0,
       "dj": 12000000.0,
       "name": "FW_24"
     },
@@ -1137,7 +1137,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 0.0,
+      "varValue": 1.0,
       "dj": 2400000.0,
       "name": "HW_24"
     },
@@ -1153,7 +1153,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 0.0,
+      "varValue": 5.0,
       "dj": 0.0,
       "name": "IG_20_1"
     },
@@ -1161,7 +1161,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 0.0,
+      "varValue": 14.0,
       "dj": 0.0,
       "name": "IG_20_2"
     },
@@ -1169,7 +1169,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 0.0,
+      "varValue": 1.0,
       "dj": 0.0,
       "name": "IG_20_3"
     },
@@ -1177,7 +1177,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 0.0,
+      "varValue": 4.0,
       "dj": 0.0,
       "name": "IG_21_1"
     },
@@ -1185,7 +1185,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 0.0,
+      "varValue": 21.0,
       "dj": 0.0,
       "name": "IG_21_2"
     },
@@ -1193,7 +1193,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 0.0,
+      "varValue": 1.0,
       "dj": 0.0,
       "name": "IG_21_3"
     },
@@ -1201,7 +1201,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 0.0,
+      "varValue": 2.0,
       "dj": 0.0,
       "name": "IG_22_1"
     },
@@ -1209,7 +1209,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 0.0,
+      "varValue": 23.0,
       "dj": 0.0,
       "name": "IG_22_2"
     },
@@ -1217,7 +1217,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 0.0,
+      "varValue": 1.0,
       "dj": 0.0,
       "name": "IG_22_3"
     },
@@ -1225,7 +1225,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 0.0,
+      "varValue": 2.0,
       "dj": 0.0,
       "name": "IG_23_1"
     },
@@ -1233,7 +1233,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 0.0,
+      "varValue": 19.0,
       "dj": 0.0,
       "name": "IG_23_2"
     },
@@ -1249,7 +1249,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 0.0,
+      "varValue": 1.0,
       "dj": 0.0,
       "name": "IG_24_1"
     },
@@ -1294,95 +1294,95 @@
       "name": "IG_25_3"
     },
     {
-      "lowBound": 0,
+      "lowBound": null,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 0.0,
+      "varValue": -5.0,
       "dj": 0.0,
       "name": "IL_20_1"
     },
     {
-      "lowBound": 0,
+      "lowBound": null,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 0.0,
+      "varValue": -14.0,
       "dj": 0.0,
       "name": "IL_20_2"
     },
     {
-      "lowBound": 0,
+      "lowBound": null,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 0.0,
+      "varValue": -1.0,
       "dj": 0.0,
       "name": "IL_20_3"
     },
     {
-      "lowBound": 0,
+      "lowBound": null,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 0.0,
+      "varValue": -4.0,
       "dj": 0.0,
       "name": "IL_21_1"
     },
     {
-      "lowBound": 0,
+      "lowBound": null,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 0.0,
+      "varValue": -21.0,
       "dj": 0.0,
       "name": "IL_21_2"
     },
     {
-      "lowBound": 0,
+      "lowBound": null,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 0.0,
+      "varValue": -1.0,
       "dj": 0.0,
       "name": "IL_21_3"
     },
     {
-      "lowBound": 0,
+      "lowBound": null,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 0.0,
+      "varValue": -2.0,
       "dj": 0.0,
       "name": "IL_22_1"
     },
     {
-      "lowBound": 0,
+      "lowBound": null,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 0.0,
+      "varValue": -23.0,
       "dj": 0.0,
       "name": "IL_22_2"
     },
     {
-      "lowBound": 0,
+      "lowBound": null,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 0.0,
+      "varValue": -1.0,
       "dj": 0.0,
       "name": "IL_22_3"
     },
     {
-      "lowBound": 0,
+      "lowBound": null,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 0.0,
+      "varValue": -2.0,
       "dj": 0.0,
       "name": "IL_23_1"
     },
     {
-      "lowBound": 0,
+      "lowBound": null,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 0.0,
+      "varValue": -19.0,
       "dj": 0.0,
       "name": "IL_23_2"
     },
     {
-      "lowBound": 0,
+      "lowBound": null,
       "upBound": null,
       "cat": "Integer",
       "varValue": 0.0,
@@ -1390,23 +1390,23 @@
       "name": "IL_23_3"
     },
     {
-      "lowBound": 0,
+      "lowBound": null,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 0.0,
+      "varValue": -1.0,
       "dj": 0.0,
       "name": "IL_24_1"
     },
     {
-      "lowBound": 0,
+      "lowBound": null,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 13.0,
+      "varValue": 3.0,
       "dj": 0.0,
       "name": "IL_24_2"
     },
     {
-      "lowBound": 0,
+      "lowBound": null,
       "upBound": null,
       "cat": "Integer",
       "varValue": 0.0,
@@ -1414,7 +1414,7 @@
       "name": "IL_24_3"
     },
     {
-      "lowBound": 0,
+      "lowBound": null,
       "upBound": null,
       "cat": "Integer",
       "varValue": 0.0,
@@ -1422,7 +1422,7 @@
       "name": "IL_25_1"
     },
     {
-      "lowBound": 0,
+      "lowBound": null,
       "upBound": null,
       "cat": "Integer",
       "varValue": 0.0,
@@ -1430,7 +1430,7 @@
       "name": "IL_25_2"
     },
     {
-      "lowBound": 0,
+      "lowBound": null,
       "upBound": null,
       "cat": "Integer",
       "varValue": 0.0,
@@ -1545,7 +1545,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 13.0,
+      "varValue": 3.0,
       "dj": 258333.33,
       "name": "IS_24_2"
     },
@@ -1585,7 +1585,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 3.0,
+      "varValue": 0.0,
       "dj": 13560000.0,
       "name": "OP_20_1"
     },
@@ -1609,7 +1609,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 0.0,
+      "varValue": 1.0,
       "dj": 13560000.0,
       "name": "OP_21_1"
     },
@@ -1729,7 +1729,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 5.0,
+      "varValue": 0.0,
       "dj": 4500000.0,
       "name": "OW_20"
     },
@@ -1737,7 +1737,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 0.0,
+      "varValue": 2.0,
       "dj": 4500000.0,
       "name": "OW_21"
     },
@@ -1801,7 +1801,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 2.0,
+      "varValue": 0.0,
       "dj": 1500000.0,
       "name": "PD_21_1"
     },
@@ -1809,7 +1809,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 7.0,
+      "varValue": 0.0,
       "dj": 1500000.0,
       "name": "PD_21_2"
     },
@@ -1817,7 +1817,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 1.0,
+      "varValue": 0.0,
       "dj": 1500000.0,
       "name": "PD_21_3"
     },
@@ -1825,7 +1825,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 2.0,
+      "varValue": 0.0,
       "dj": 1500000.0,
       "name": "PD_22_1"
     },
@@ -1833,7 +1833,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 5.0,
+      "varValue": 0.0,
       "dj": 1500000.0,
       "name": "PD_22_2"
     },
@@ -1857,7 +1857,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 6.0,
+      "varValue": 0.0,
       "dj": 1500000.0,
       "name": "PD_23_2"
     },
@@ -1865,7 +1865,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 1.0,
+      "varValue": 0.0,
       "dj": 1500000.0,
       "name": "PD_23_3"
     },
@@ -1881,7 +1881,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 3.0,
+      "varValue": 0.0,
       "dj": 1500000.0,
       "name": "PD_24_2"
     },
@@ -1889,7 +1889,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 0.0,
+      "varValue": 1.0,
       "dj": 1500000.0,
       "name": "PD_24_3"
     },
@@ -1905,7 +1905,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 1.0,
+      "varValue": 0.0,
       "dj": 1500000.0,
       "name": "PD_25_2"
     },
@@ -1921,7 +1921,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 437.0,
+      "varValue": 435.0,
       "dj": 1000000.0,
       "name": "PI_20_1"
     },
@@ -1929,7 +1929,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 166.0,
+      "varValue": 152.0,
       "dj": 1000000.0,
       "name": "PI_20_2"
     },
@@ -1937,7 +1937,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 7.0,
+      "varValue": 6.0,
       "dj": 1000000.0,
       "name": "PI_20_3"
     },
@@ -1993,7 +1993,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 2.0,
+      "varValue": 0.0,
       "dj": 1000000.0,
       "name": "PI_23_1"
     },
@@ -2017,7 +2017,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 0.0,
+      "varValue": 1.0,
       "dj": 1000000.0,
       "name": "PI_24_1"
     },
@@ -2025,7 +2025,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 0.0,
+      "varValue": 2.0,
       "dj": 1000000.0,
       "name": "PI_24_2"
     },
@@ -2065,7 +2065,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 437.0,
+      "varValue": 435.0,
       "dj": 11300000.0,
       "name": "RP_20_1"
     },
@@ -2073,7 +2073,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 166.0,
+      "varValue": 152.0,
       "dj": 12200000.0,
       "name": "RP_20_2"
     },
@@ -2081,7 +2081,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 7.0,
+      "varValue": 6.0,
       "dj": 16700000.0,
       "name": "RP_20_3"
     },
@@ -2097,7 +2097,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 159.0,
+      "varValue": 152.0,
       "dj": 12200000.0,
       "name": "RP_21_2"
     },
@@ -2113,7 +2113,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 433.0,
+      "varValue": 435.0,
       "dj": 11300000.0,
       "name": "RP_22_1"
     },
@@ -2121,7 +2121,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 154.0,
+      "varValue": 152.0,
       "dj": 12200000.0,
       "name": "RP_22_2"
     },
@@ -2145,7 +2145,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 148.0,
+      "varValue": 152.0,
       "dj": 12200000.0,
       "name": "RP_23_2"
     },
@@ -2153,7 +2153,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 5.0,
+      "varValue": 6.0,
       "dj": 16700000.0,
       "name": "RP_23_3"
     },
@@ -2161,7 +2161,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 435.0,
+      "varValue": 436.0,
       "dj": 11300000.0,
       "name": "RP_24_1"
     },
@@ -2169,7 +2169,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 145.0,
+      "varValue": 154.0,
       "dj": 12200000.0,
       "name": "RP_24_2"
     },
@@ -2185,7 +2185,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 435.0,
+      "varValue": 436.0,
       "dj": 11300000.0,
       "name": "RP_25_1"
     },
@@ -2193,7 +2193,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 144.0,
+      "varValue": 154.0,
       "dj": 12200000.0,
       "name": "RP_25_2"
     },
@@ -2209,7 +2209,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 251.0,
+      "varValue": 244.0,
       "dj": 15000000.0,
       "name": "TW_20"
     },
@@ -2217,7 +2217,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 247.0,
+      "varValue": 244.0,
       "dj": 15000000.0,
       "name": "TW_21"
     },
@@ -2233,7 +2233,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 242.0,
+      "varValue": 244.0,
       "dj": 15000000.0,
       "name": "TW_23"
     },
@@ -2241,7 +2241,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 241.0,
+      "varValue": 245.0,
       "dj": 15000000.0,
       "name": "TW_24"
     },
@@ -2249,7 +2249,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 241.0,
+      "varValue": 245.0,
       "dj": 15000000.0,
       "name": "TW_25"
     }

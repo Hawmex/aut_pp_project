@@ -106,6 +106,10 @@ model is exported and saved at `./phase_2/model.json`.
 
 ### Results
 
+```
+total cost: 300943835000.0
+```
+
 <div>
 <table border="1" class="dataframe">
   <thead>
@@ -122,17 +126,17 @@ model is exported and saved at `./phase_2/model.json`.
   <tbody>
     <tr>
       <th>RP</th>
-      <td>(437, 166, 7)</td>
-      <td>(435, 159, 6)</td>
-      <td>(433, 154, 6)</td>
-      <td>(435, 148, 5)</td>
-      <td>(435, 145, 5)</td>
-      <td>(435, 144, 5)</td>
+      <td>(435, 152, 6)</td>
+      <td>(435, 152, 6)</td>
+      <td>(435, 152, 6)</td>
+      <td>(435, 152, 6)</td>
+      <td>(436, 154, 5)</td>
+      <td>(436, 154, 5)</td>
     </tr>
     <tr>
       <th>OP</th>
-      <td>(3, 0, 0)</td>
       <td>(0, 0, 0)</td>
+      <td>(1, 0, 0)</td>
       <td>(0, 0, 0)</td>
       <td>(0, 0, 0)</td>
       <td>(0, 0, 0)</td>
@@ -140,29 +144,29 @@ model is exported and saved at `./phase_2/model.json`.
     </tr>
     <tr>
       <th>PI</th>
-      <td>(437, 166, 7)</td>
+      <td>(435, 152, 6)</td>
       <td>(0, 0, 0)</td>
       <td>(0, 0, 0)</td>
-      <td>(2, 0, 0)</td>
       <td>(0, 0, 0)</td>
+      <td>(1, 2, 0)</td>
       <td>(0, 0, 0)</td>
     </tr>
     <tr>
       <th>PD</th>
       <td>(0, 0, 0)</td>
-      <td>(2, 7, 1)</td>
-      <td>(2, 5, 0)</td>
-      <td>(0, 6, 1)</td>
-      <td>(0, 3, 0)</td>
-      <td>(0, 1, 0)</td>
+      <td>(0, 0, 0)</td>
+      <td>(0, 0, 0)</td>
+      <td>(0, 0, 0)</td>
+      <td>(0, 0, 1)</td>
+      <td>(0, 0, 0)</td>
     </tr>
     <tr>
       <th>IL</th>
-      <td>(0, 0, 0)</td>
-      <td>(0, 0, 0)</td>
-      <td>(0, 0, 0)</td>
-      <td>(0, 0, 0)</td>
-      <td>(0, 13, 0)</td>
+      <td>(-5, -14, -1)</td>
+      <td>(-4, -21, -1)</td>
+      <td>(-2, -23, -1)</td>
+      <td>(-2, -19, 0)</td>
+      <td>(-1, 3, 0)</td>
       <td>(0, 0, 0)</td>
     </tr>
     <tr>
@@ -171,31 +175,31 @@ model is exported and saved at `./phase_2/model.json`.
       <td>(0, 0, 0)</td>
       <td>(0, 0, 0)</td>
       <td>(0, 0, 0)</td>
-      <td>(0, 13, 0)</td>
+      <td>(0, 3, 0)</td>
       <td>(0, 0, 0)</td>
     </tr>
     <tr>
       <th>IG</th>
-      <td>(0, 0, 0)</td>
-      <td>(0, 0, 0)</td>
-      <td>(0, 0, 0)</td>
-      <td>(0, 0, 0)</td>
-      <td>(0, 0, 0)</td>
+      <td>(5, 14, 1)</td>
+      <td>(4, 21, 1)</td>
+      <td>(2, 23, 1)</td>
+      <td>(2, 19, 0)</td>
+      <td>(1, 0, 0)</td>
       <td>(0, 0, 0)</td>
     </tr>
     <tr>
       <th>TW</th>
-      <td>251</td>
-      <td>247</td>
       <td>244</td>
-      <td>242</td>
-      <td>241</td>
-      <td>241</td>
+      <td>244</td>
+      <td>244</td>
+      <td>244</td>
+      <td>245</td>
+      <td>245</td>
     </tr>
     <tr>
       <th>OW</th>
-      <td>5</td>
       <td>0</td>
+      <td>2</td>
       <td>0</td>
       <td>0</td>
       <td>0</td>
@@ -207,16 +211,16 @@ model is exported and saved at `./phase_2/model.json`.
       <td>0</td>
       <td>0</td>
       <td>0</td>
-      <td>0</td>
+      <td>1</td>
       <td>0</td>
     </tr>
     <tr>
       <th>FW</th>
-      <td>19749</td>
-      <td>4</td>
-      <td>3</td>
-      <td>2</td>
-      <td>1</td>
+      <td>19756</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
       <td>0</td>
     </tr>
   </tbody>
@@ -230,23 +234,23 @@ As said, sensitivity analysis is conducted on two following parameters:
 #### Regular Salary
 
 ```
-rs = 12000000,	total cost: 296656538333.3333
-rs = 13000000,	total cost: 298122538333.3333
-rs = 14000000,	total cost: 299588538333.3333
-rs = 15000000,	total cost: 301054538333.3333
-rs = 16000000,	total cost: 302520538333.3333
-rs = 17000000,	total cost: 303986538333.3333
-rs = 18000000,	total cost: 305452538333.3333
+rs = 12000000,	total cost: 296545835000.0
+rs = 13000000,	total cost: 298011835000.0
+rs = 14000000,	total cost: 299477835000.0
+rs = 15000000,	total cost: 300943835000.0
+rs = 16000000,	total cost: 302409835000.0
+rs = 17000000,	total cost: 303875835000.0
+rs = 18000000,	total cost: 305341835000.0
 ```
 
 #### Firing Cost
 
 ```
-fc = 6000000,	total cost: 182500538333.33334
-fc = 8000000,	total cost: 222018538333.33334
-fc = 10000000,	total cost: 261536538333.33334
-fc = 12000000,	total cost: 301054538333.3333
-fc = 14000000,	total cost: 340572538333.3333
-fc = 16000000,	total cost: 380090538333.3333
-fc = 18000000,	total cost: 419608538333.3333
+fc = 6000000,	total cost: 182407835000.0
+fc = 8000000,	total cost: 221919835000.0
+fc = 10000000,	total cost: 261431835000.0
+fc = 12000000,	total cost: 300943835000.0
+fc = 14000000,	total cost: 340455835000.0
+fc = 16000000,	total cost: 379967835000.0
+fc = 18000000,	total cost: 419479835000.0
 ```
