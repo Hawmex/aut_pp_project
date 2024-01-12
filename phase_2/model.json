@@ -7,115 +7,133 @@
       { "name": "PI_20_1", "value": 1000000 },
       { "name": "PD_20_1", "value": 1500000 },
       { "name": "IS_20_1", "value": 191666.66666666666 },
+      { "name": "IG_20_1", "value": 2000000 },
       { "name": "RP_21_1", "value": 11300000 },
       { "name": "OP_21_1", "value": 13560000 },
       { "name": "PI_21_1", "value": 1000000 },
       { "name": "PD_21_1", "value": 1500000 },
       { "name": "IS_21_1", "value": 191666.66666666666 },
+      { "name": "IG_21_1", "value": 2000000 },
       { "name": "RP_22_1", "value": 11300000 },
       { "name": "OP_22_1", "value": 13560000 },
       { "name": "PI_22_1", "value": 1000000 },
       { "name": "PD_22_1", "value": 1500000 },
       { "name": "IS_22_1", "value": 191666.66666666666 },
+      { "name": "IG_22_1", "value": 2000000 },
       { "name": "RP_23_1", "value": 11300000 },
       { "name": "OP_23_1", "value": 13560000 },
       { "name": "PI_23_1", "value": 1000000 },
       { "name": "PD_23_1", "value": 1500000 },
       { "name": "IS_23_1", "value": 191666.66666666666 },
+      { "name": "IG_23_1", "value": 2000000 },
       { "name": "RP_24_1", "value": 11300000 },
       { "name": "OP_24_1", "value": 13560000 },
       { "name": "PI_24_1", "value": 1000000 },
       { "name": "PD_24_1", "value": 1500000 },
       { "name": "IS_24_1", "value": 191666.66666666666 },
+      { "name": "IG_24_1", "value": 2000000 },
       { "name": "RP_25_1", "value": 11300000 },
       { "name": "OP_25_1", "value": 13560000 },
       { "name": "PI_25_1", "value": 1000000 },
       { "name": "PD_25_1", "value": 1500000 },
       { "name": "IS_25_1", "value": 191666.66666666666 },
+      { "name": "IG_25_1", "value": 2000000 },
       { "name": "RP_20_2", "value": 12200000 },
       { "name": "OP_20_2", "value": 14640000 },
       { "name": "PI_20_2", "value": 1000000 },
       { "name": "PD_20_2", "value": 1500000 },
       { "name": "IS_20_2", "value": 258333.33333333334 },
+      { "name": "IG_20_2", "value": 2000000 },
       { "name": "RP_21_2", "value": 12200000 },
       { "name": "OP_21_2", "value": 14640000 },
       { "name": "PI_21_2", "value": 1000000 },
       { "name": "PD_21_2", "value": 1500000 },
       { "name": "IS_21_2", "value": 258333.33333333334 },
+      { "name": "IG_21_2", "value": 2000000 },
       { "name": "RP_22_2", "value": 12200000 },
       { "name": "OP_22_2", "value": 14640000 },
       { "name": "PI_22_2", "value": 1000000 },
       { "name": "PD_22_2", "value": 1500000 },
       { "name": "IS_22_2", "value": 258333.33333333334 },
+      { "name": "IG_22_2", "value": 2000000 },
       { "name": "RP_23_2", "value": 12200000 },
       { "name": "OP_23_2", "value": 14640000 },
       { "name": "PI_23_2", "value": 1000000 },
       { "name": "PD_23_2", "value": 1500000 },
       { "name": "IS_23_2", "value": 258333.33333333334 },
+      { "name": "IG_23_2", "value": 2000000 },
       { "name": "RP_24_2", "value": 12200000 },
       { "name": "OP_24_2", "value": 14640000 },
       { "name": "PI_24_2", "value": 1000000 },
       { "name": "PD_24_2", "value": 1500000 },
       { "name": "IS_24_2", "value": 258333.33333333334 },
+      { "name": "IG_24_2", "value": 2000000 },
       { "name": "RP_25_2", "value": 12200000 },
       { "name": "OP_25_2", "value": 14640000 },
       { "name": "PI_25_2", "value": 1000000 },
       { "name": "PD_25_2", "value": 1500000 },
       { "name": "IS_25_2", "value": 258333.33333333334 },
+      { "name": "IG_25_2", "value": 2000000 },
       { "name": "RP_20_3", "value": 16700000 },
       { "name": "OP_20_3", "value": 20040000 },
       { "name": "PI_20_3", "value": 1000000 },
       { "name": "PD_20_3", "value": 1500000 },
       { "name": "IS_20_3", "value": 466666.6666666667 },
+      { "name": "IG_20_3", "value": 2000000 },
       { "name": "RP_21_3", "value": 16700000 },
       { "name": "OP_21_3", "value": 20040000 },
       { "name": "PI_21_3", "value": 1000000 },
       { "name": "PD_21_3", "value": 1500000 },
       { "name": "IS_21_3", "value": 466666.6666666667 },
+      { "name": "IG_21_3", "value": 2000000 },
       { "name": "RP_22_3", "value": 16700000 },
       { "name": "OP_22_3", "value": 20040000 },
       { "name": "PI_22_3", "value": 1000000 },
       { "name": "PD_22_3", "value": 1500000 },
       { "name": "IS_22_3", "value": 466666.6666666667 },
+      { "name": "IG_22_3", "value": 2000000 },
       { "name": "RP_23_3", "value": 16700000 },
       { "name": "OP_23_3", "value": 20040000 },
       { "name": "PI_23_3", "value": 1000000 },
       { "name": "PD_23_3", "value": 1500000 },
       { "name": "IS_23_3", "value": 466666.6666666667 },
+      { "name": "IG_23_3", "value": 2000000 },
       { "name": "RP_24_3", "value": 16700000 },
       { "name": "OP_24_3", "value": 20040000 },
       { "name": "PI_24_3", "value": 1000000 },
       { "name": "PD_24_3", "value": 1500000 },
       { "name": "IS_24_3", "value": 466666.6666666667 },
+      { "name": "IG_24_3", "value": 2000000 },
       { "name": "RP_25_3", "value": 16700000 },
       { "name": "OP_25_3", "value": 20040000 },
       { "name": "PI_25_3", "value": 1000000 },
       { "name": "PD_25_3", "value": 1500000 },
       { "name": "IS_25_3", "value": 466666.6666666667 },
+      { "name": "IG_25_3", "value": 2000000 },
       { "name": "TW_20", "value": 15000000 },
       { "name": "OW_20", "value": 4500000 },
-      { "name": "HW_20", "value": 2400000 },
-      { "name": "FW_20", "value": 18000000.0 },
+      { "name": "HW_20", "value": 3600000.0 },
+      { "name": "FW_20", "value": 12000000 },
       { "name": "TW_21", "value": 15000000 },
       { "name": "OW_21", "value": 4500000 },
-      { "name": "HW_21", "value": 2400000 },
-      { "name": "FW_21", "value": 18000000.0 },
+      { "name": "HW_21", "value": 3600000.0 },
+      { "name": "FW_21", "value": 12000000 },
       { "name": "TW_22", "value": 15000000 },
       { "name": "OW_22", "value": 4500000 },
-      { "name": "HW_22", "value": 2400000 },
-      { "name": "FW_22", "value": 18000000.0 },
+      { "name": "HW_22", "value": 3600000.0 },
+      { "name": "FW_22", "value": 12000000 },
       { "name": "TW_23", "value": 15000000 },
       { "name": "OW_23", "value": 4500000 },
-      { "name": "HW_23", "value": 2400000 },
-      { "name": "FW_23", "value": 18000000.0 },
+      { "name": "HW_23", "value": 3600000.0 },
+      { "name": "FW_23", "value": 12000000 },
       { "name": "TW_24", "value": 15000000 },
       { "name": "OW_24", "value": 4500000 },
-      { "name": "HW_24", "value": 2400000 },
-      { "name": "FW_24", "value": 18000000.0 },
+      { "name": "HW_24", "value": 3600000.0 },
+      { "name": "FW_24", "value": 12000000 },
       { "name": "TW_25", "value": 15000000 },
       { "name": "OW_25", "value": 4500000 },
-      { "name": "HW_25", "value": 2400000 },
-      { "name": "FW_25", "value": 18000000.0 }
+      { "name": "HW_25", "value": 3600000.0 },
+      { "name": "FW_25", "value": 12000000 }
     ]
   },
   "constraints": [
@@ -191,7 +209,7 @@
     {
       "sense": 0,
       "pi": null,
-      "constant": 440.0,
+      "constant": 439880.0,
       "name": null,
       "coefficients": [
         { "name": "IL_20_1", "value": 1 },
@@ -224,7 +242,7 @@
     {
       "sense": 0,
       "pi": null,
-      "constant": 166.0,
+      "constant": 165875.0,
       "name": null,
       "coefficients": [
         { "name": "IL_20_2", "value": 1 },
@@ -257,7 +275,7 @@
     {
       "sense": 0,
       "pi": null,
-      "constant": 7.0,
+      "constant": 6628.0,
       "name": null,
       "coefficients": [
         { "name": "IL_20_3", "value": 1 },
@@ -339,7 +357,7 @@
     {
       "sense": 0,
       "pi": null,
-      "constant": 435.0,
+      "constant": 434692.0,
       "name": null,
       "coefficients": [
         { "name": "IL_21_1", "value": 1 },
@@ -374,7 +392,7 @@
     {
       "sense": 0,
       "pi": null,
-      "constant": 159.0,
+      "constant": 158965.0,
       "name": null,
       "coefficients": [
         { "name": "IL_21_2", "value": 1 },
@@ -409,7 +427,7 @@
     {
       "sense": 0,
       "pi": null,
-      "constant": 6.0,
+      "constant": 5515.0,
       "name": null,
       "coefficients": [
         { "name": "IL_21_3", "value": 1 },
@@ -492,7 +510,7 @@
     {
       "sense": 0,
       "pi": null,
-      "constant": 433.0,
+      "constant": 432838.0,
       "name": null,
       "coefficients": [
         { "name": "IL_22_1", "value": 1 },
@@ -527,7 +545,7 @@
     {
       "sense": 0,
       "pi": null,
-      "constant": 154.0,
+      "constant": 153043.0,
       "name": null,
       "coefficients": [
         { "name": "IL_22_2", "value": 1 },
@@ -562,7 +580,7 @@
     {
       "sense": 0,
       "pi": null,
-      "constant": 6.0,
+      "constant": 5006.0,
       "name": null,
       "coefficients": [
         { "name": "IL_22_3", "value": 1 },
@@ -645,7 +663,7 @@
     {
       "sense": 0,
       "pi": null,
-      "constant": 435.0,
+      "constant": 434803.0,
       "name": null,
       "coefficients": [
         { "name": "IL_23_1", "value": 1 },
@@ -680,7 +698,7 @@
     {
       "sense": 0,
       "pi": null,
-      "constant": 148.0,
+      "constant": 147120.0,
       "name": null,
       "coefficients": [
         { "name": "IL_23_2", "value": 1 },
@@ -715,7 +733,7 @@
     {
       "sense": 0,
       "pi": null,
-      "constant": 5.0,
+      "constant": 4553.0,
       "name": null,
       "coefficients": [
         { "name": "IL_23_3", "value": 1 },
@@ -798,7 +816,7 @@
     {
       "sense": 0,
       "pi": null,
-      "constant": 435.0,
+      "constant": 434192.0,
       "name": null,
       "coefficients": [
         { "name": "IL_24_1", "value": 1 },
@@ -833,7 +851,7 @@
     {
       "sense": 0,
       "pi": null,
-      "constant": 132.0,
+      "constant": 131959.0,
       "name": null,
       "coefficients": [
         { "name": "IL_24_2", "value": 1 },
@@ -868,7 +886,7 @@
     {
       "sense": 0,
       "pi": null,
-      "constant": 5.0,
+      "constant": 4371.0,
       "name": null,
       "coefficients": [
         { "name": "IL_24_3", "value": 1 },
@@ -951,7 +969,7 @@
     {
       "sense": 0,
       "pi": null,
-      "constant": 435.0,
+      "constant": 434104.0,
       "name": null,
       "coefficients": [
         { "name": "IL_25_1", "value": 1 },
@@ -993,7 +1011,7 @@
     {
       "sense": 0,
       "pi": null,
-      "constant": 157.0,
+      "constant": 156018.0,
       "name": null,
       "coefficients": [
         { "name": "IL_25_2", "value": 1 },
@@ -1035,7 +1053,7 @@
     {
       "sense": 0,
       "pi": null,
-      "constant": 5.0,
+      "constant": 4917.0,
       "name": null,
       "coefficients": [
         { "name": "IL_25_3", "value": 1 },
@@ -1057,7 +1075,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 19756.0,
+      "varValue": 0.0,
       "dj": 12000000.0,
       "name": "FW_20"
     },
@@ -1081,7 +1099,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 0.0,
+      "varValue": 2.0,
       "dj": 12000000.0,
       "name": "FW_23"
     },
@@ -1105,7 +1123,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 0.0,
+      "varValue": 221112.0,
       "dj": 2400000.0,
       "name": "HW_20"
     },
@@ -1137,7 +1155,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 1.0,
+      "varValue": 0.0,
       "dj": 2400000.0,
       "name": "HW_24"
     },
@@ -1153,104 +1171,104 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 5.0,
-      "dj": 0.0,
+      "varValue": 0.0,
+      "dj": 2000000.0,
       "name": "IG_20_1"
     },
     {
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 14.0,
-      "dj": 0.0,
+      "varValue": 0.0,
+      "dj": 2000000.0,
       "name": "IG_20_2"
     },
     {
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 1.0,
-      "dj": 0.0,
+      "varValue": 0.0,
+      "dj": 2000000.0,
       "name": "IG_20_3"
     },
     {
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 4.0,
-      "dj": 0.0,
+      "varValue": 599.0,
+      "dj": 2000000.0,
       "name": "IG_21_1"
     },
     {
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 21.0,
-      "dj": 0.0,
+      "varValue": 0.0,
+      "dj": 2000000.0,
       "name": "IG_21_2"
     },
     {
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 1.0,
-      "dj": 0.0,
+      "varValue": 606.0,
+      "dj": 2000000.0,
       "name": "IG_21_3"
     },
     {
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 2.0,
-      "dj": 0.0,
+      "varValue": 0.0,
+      "dj": 2000000.0,
       "name": "IG_22_1"
     },
     {
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 23.0,
-      "dj": 0.0,
+      "varValue": 6008.0,
+      "dj": 2000000.0,
       "name": "IG_22_2"
     },
     {
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 1.0,
-      "dj": 0.0,
+      "varValue": 703.0,
+      "dj": 2000000.0,
       "name": "IG_22_3"
     },
     {
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 2.0,
-      "dj": 0.0,
+      "varValue": 0.0,
+      "dj": 2000000.0,
       "name": "IG_23_1"
     },
     {
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 19.0,
-      "dj": 0.0,
+      "varValue": 6093.0,
+      "dj": 2000000.0,
       "name": "IG_23_2"
     },
     {
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 0.0,
-      "dj": 0.0,
+      "varValue": 408.0,
+      "dj": 2000000.0,
       "name": "IG_23_3"
     },
     {
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 1.0,
-      "dj": 0.0,
+      "varValue": 44.0,
+      "dj": 2000000.0,
       "name": "IG_24_1"
     },
     {
@@ -1258,7 +1276,7 @@
       "upBound": null,
       "cat": "Integer",
       "varValue": 0.0,
-      "dj": 0.0,
+      "dj": 2000000.0,
       "name": "IG_24_2"
     },
     {
@@ -1266,7 +1284,7 @@
       "upBound": null,
       "cat": "Integer",
       "varValue": 0.0,
-      "dj": 0.0,
+      "dj": 2000000.0,
       "name": "IG_24_3"
     },
     {
@@ -1274,7 +1292,7 @@
       "upBound": null,
       "cat": "Integer",
       "varValue": 0.0,
-      "dj": 0.0,
+      "dj": 2000000.0,
       "name": "IG_25_1"
     },
     {
@@ -1282,7 +1300,7 @@
       "upBound": null,
       "cat": "Integer",
       "varValue": 0.0,
-      "dj": 0.0,
+      "dj": 2000000.0,
       "name": "IG_25_2"
     },
     {
@@ -1290,14 +1308,14 @@
       "upBound": null,
       "cat": "Integer",
       "varValue": 0.0,
-      "dj": 0.0,
+      "dj": 2000000.0,
       "name": "IG_25_3"
     },
     {
       "lowBound": null,
       "upBound": null,
       "cat": "Integer",
-      "varValue": -5.0,
+      "varValue": 0.0,
       "dj": 0.0,
       "name": "IL_20_1"
     },
@@ -1305,7 +1323,7 @@
       "lowBound": null,
       "upBound": null,
       "cat": "Integer",
-      "varValue": -14.0,
+      "varValue": 0.0,
       "dj": 0.0,
       "name": "IL_20_2"
     },
@@ -1313,7 +1331,7 @@
       "lowBound": null,
       "upBound": null,
       "cat": "Integer",
-      "varValue": -1.0,
+      "varValue": 0.0,
       "dj": 0.0,
       "name": "IL_20_3"
     },
@@ -1321,7 +1339,7 @@
       "lowBound": null,
       "upBound": null,
       "cat": "Integer",
-      "varValue": -4.0,
+      "varValue": -599.0,
       "dj": 0.0,
       "name": "IL_21_1"
     },
@@ -1329,7 +1347,7 @@
       "lowBound": null,
       "upBound": null,
       "cat": "Integer",
-      "varValue": -21.0,
+      "varValue": 0.0,
       "dj": 0.0,
       "name": "IL_21_2"
     },
@@ -1337,7 +1355,7 @@
       "lowBound": null,
       "upBound": null,
       "cat": "Integer",
-      "varValue": -1.0,
+      "varValue": -606.0,
       "dj": 0.0,
       "name": "IL_21_3"
     },
@@ -1345,7 +1363,7 @@
       "lowBound": null,
       "upBound": null,
       "cat": "Integer",
-      "varValue": -2.0,
+      "varValue": 655.0,
       "dj": 0.0,
       "name": "IL_22_1"
     },
@@ -1353,7 +1371,7 @@
       "lowBound": null,
       "upBound": null,
       "cat": "Integer",
-      "varValue": -23.0,
+      "varValue": -6008.0,
       "dj": 0.0,
       "name": "IL_22_2"
     },
@@ -1361,7 +1379,7 @@
       "lowBound": null,
       "upBound": null,
       "cat": "Integer",
-      "varValue": -1.0,
+      "varValue": -703.0,
       "dj": 0.0,
       "name": "IL_22_3"
     },
@@ -1369,7 +1387,7 @@
       "lowBound": null,
       "upBound": null,
       "cat": "Integer",
-      "varValue": -2.0,
+      "varValue": 0.0,
       "dj": 0.0,
       "name": "IL_23_1"
     },
@@ -1377,7 +1395,7 @@
       "lowBound": null,
       "upBound": null,
       "cat": "Integer",
-      "varValue": -19.0,
+      "varValue": -6093.0,
       "dj": 0.0,
       "name": "IL_23_2"
     },
@@ -1385,7 +1403,7 @@
       "lowBound": null,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 0.0,
+      "varValue": -408.0,
       "dj": 0.0,
       "name": "IL_23_3"
     },
@@ -1393,7 +1411,7 @@
       "lowBound": null,
       "upBound": null,
       "cat": "Integer",
-      "varValue": -1.0,
+      "varValue": -44.0,
       "dj": 0.0,
       "name": "IL_24_1"
     },
@@ -1401,7 +1419,7 @@
       "lowBound": null,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 3.0,
+      "varValue": 8983.0,
       "dj": 0.0,
       "name": "IL_24_2"
     },
@@ -1409,7 +1427,7 @@
       "lowBound": null,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 0.0,
+      "varValue": 69.0,
       "dj": 0.0,
       "name": "IL_24_3"
     },
@@ -1489,7 +1507,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 0.0,
+      "varValue": 655.0,
       "dj": 191666.67,
       "name": "IS_22_1"
     },
@@ -1545,7 +1563,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 3.0,
+      "varValue": 8983.0,
       "dj": 258333.33,
       "name": "IS_24_2"
     },
@@ -1553,7 +1571,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 0.0,
+      "varValue": 69.0,
       "dj": 466666.67,
       "name": "IS_24_3"
     },
@@ -1585,7 +1603,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 0.0,
+      "varValue": 5788.0,
       "dj": 13560000.0,
       "name": "OP_20_1"
     },
@@ -1593,7 +1611,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 0.0,
+      "varValue": 18840.0,
       "dj": 14640000.0,
       "name": "OP_20_2"
     },
@@ -1601,7 +1619,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 0.0,
+      "varValue": 1719.0,
       "dj": 20040000.0,
       "name": "OP_20_3"
     },
@@ -1617,7 +1635,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 0.0,
+      "varValue": 11930.0,
       "dj": 14640000.0,
       "name": "OP_21_2"
     },
@@ -1729,7 +1747,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 0.0,
+      "varValue": 37940.0,
       "dj": 4500000.0,
       "name": "OW_20"
     },
@@ -1737,7 +1755,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 2.0,
+      "varValue": 17181.0,
       "dj": 4500000.0,
       "name": "OW_21"
     },
@@ -1865,7 +1883,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 0.0,
+      "varValue": 61.0,
       "dj": 1500000.0,
       "name": "PD_23_3"
     },
@@ -1889,7 +1907,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 1.0,
+      "varValue": 0.0,
       "dj": 1500000.0,
       "name": "PD_24_3"
     },
@@ -1921,7 +1939,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 435.0,
+      "varValue": 434092.0,
       "dj": 1000000.0,
       "name": "PI_20_1"
     },
@@ -1929,7 +1947,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 152.0,
+      "varValue": 147035.0,
       "dj": 1000000.0,
       "name": "PI_20_2"
     },
@@ -1937,7 +1955,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 6.0,
+      "varValue": 4909.0,
       "dj": 1000000.0,
       "name": "PI_20_3"
     },
@@ -1993,7 +2011,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 0.0,
+      "varValue": 56.0,
       "dj": 1000000.0,
       "name": "PI_23_1"
     },
@@ -2017,7 +2035,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 1.0,
+      "varValue": 0.0,
       "dj": 1000000.0,
       "name": "PI_24_1"
     },
@@ -2025,7 +2043,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 2.0,
+      "varValue": 0.0,
       "dj": 1000000.0,
       "name": "PI_24_2"
     },
@@ -2065,7 +2083,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 435.0,
+      "varValue": 434092.0,
       "dj": 11300000.0,
       "name": "RP_20_1"
     },
@@ -2073,7 +2091,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 152.0,
+      "varValue": 147035.0,
       "dj": 12200000.0,
       "name": "RP_20_2"
     },
@@ -2081,7 +2099,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 6.0,
+      "varValue": 4909.0,
       "dj": 16700000.0,
       "name": "RP_20_3"
     },
@@ -2089,7 +2107,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 435.0,
+      "varValue": 434092.0,
       "dj": 11300000.0,
       "name": "RP_21_1"
     },
@@ -2097,7 +2115,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 152.0,
+      "varValue": 147035.0,
       "dj": 12200000.0,
       "name": "RP_21_2"
     },
@@ -2105,7 +2123,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 6.0,
+      "varValue": 4909.0,
       "dj": 16700000.0,
       "name": "RP_21_3"
     },
@@ -2113,7 +2131,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 435.0,
+      "varValue": 434092.0,
       "dj": 11300000.0,
       "name": "RP_22_1"
     },
@@ -2121,7 +2139,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 152.0,
+      "varValue": 147035.0,
       "dj": 12200000.0,
       "name": "RP_22_2"
     },
@@ -2129,7 +2147,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 6.0,
+      "varValue": 4909.0,
       "dj": 16700000.0,
       "name": "RP_22_3"
     },
@@ -2137,7 +2155,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 435.0,
+      "varValue": 434148.0,
       "dj": 11300000.0,
       "name": "RP_23_1"
     },
@@ -2145,7 +2163,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 152.0,
+      "varValue": 147035.0,
       "dj": 12200000.0,
       "name": "RP_23_2"
     },
@@ -2153,7 +2171,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 6.0,
+      "varValue": 4848.0,
       "dj": 16700000.0,
       "name": "RP_23_3"
     },
@@ -2161,7 +2179,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 436.0,
+      "varValue": 434148.0,
       "dj": 11300000.0,
       "name": "RP_24_1"
     },
@@ -2169,7 +2187,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 154.0,
+      "varValue": 147035.0,
       "dj": 12200000.0,
       "name": "RP_24_2"
     },
@@ -2177,7 +2195,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 5.0,
+      "varValue": 4848.0,
       "dj": 16700000.0,
       "name": "RP_24_3"
     },
@@ -2185,7 +2203,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 436.0,
+      "varValue": 434148.0,
       "dj": 11300000.0,
       "name": "RP_25_1"
     },
@@ -2193,7 +2211,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 154.0,
+      "varValue": 147035.0,
       "dj": 12200000.0,
       "name": "RP_25_2"
     },
@@ -2201,7 +2219,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 5.0,
+      "varValue": 4848.0,
       "dj": 16700000.0,
       "name": "RP_25_3"
     },
@@ -2209,7 +2227,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 244.0,
+      "varValue": 241112.0,
       "dj": 15000000.0,
       "name": "TW_20"
     },
@@ -2217,7 +2235,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 244.0,
+      "varValue": 241112.0,
       "dj": 15000000.0,
       "name": "TW_21"
     },
@@ -2225,7 +2243,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 244.0,
+      "varValue": 241112.0,
       "dj": 15000000.0,
       "name": "TW_22"
     },
@@ -2233,7 +2251,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 244.0,
+      "varValue": 241110.0,
       "dj": 15000000.0,
       "name": "TW_23"
     },
@@ -2241,7 +2259,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 245.0,
+      "varValue": 241110.0,
       "dj": 15000000.0,
       "name": "TW_24"
     },
@@ -2249,7 +2267,7 @@
       "lowBound": 0,
       "upBound": null,
       "cat": "Integer",
-      "varValue": 245.0,
+      "varValue": 241110.0,
       "dj": 15000000.0,
       "name": "TW_25"
     }
