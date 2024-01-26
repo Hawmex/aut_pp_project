@@ -442,7 +442,6 @@ group. More details can be found at `./3. MPS and MRP/notebook.ipynb` and
     </tr>
   </tbody>
 </table>
-<p>6 rows × 25 columns</p>
 </div>
 
 #### Group 2
@@ -622,7 +621,6 @@ group. More details can be found at `./3. MPS and MRP/notebook.ipynb` and
     </tr>
   </tbody>
 </table>
-<p>6 rows × 25 columns</p>
 </div>
 
 #### Group 3
@@ -802,7 +800,6 @@ group. More details can be found at `./3. MPS and MRP/notebook.ipynb` and
     </tr>
   </tbody>
 </table>
-<p>6 rows × 25 columns</p>
 </div>
 
 ### MRP
@@ -984,26 +981,11 @@ group. More details can be found at `./3. MPS and MRP/notebook.ipynb` and
     </tr>
   </tbody>
 </table>
-<p>6 rows × 25 columns</p>
 </div>
 
 #### Group 2
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1178,7 +1160,6 @@ group. More details can be found at `./3. MPS and MRP/notebook.ipynb` and
     </tr>
   </tbody>
 </table>
-<p>6 rows × 25 columns</p>
 </div>
 
 #### Group 3
@@ -1358,5 +1339,4 @@ group. More details can be found at `./3. MPS and MRP/notebook.ipynb` and
     </tr>
   </tbody>
 </table>
-<p>6 rows × 25 columns</p>
 </div>
