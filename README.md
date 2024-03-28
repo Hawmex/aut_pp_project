@@ -1,8 +1,7 @@
 # Production Planning
 
 This repository contains the files of my project for the "Production Planning"
-course at Amirkabir University of Technology (Tehran Polytechnic) during the
-Fall 2023 semester.
+course at Amirkabir University of Technology (Tehran Polytechnic).
 
 ## Phase 1: Demand Forecasting
 
